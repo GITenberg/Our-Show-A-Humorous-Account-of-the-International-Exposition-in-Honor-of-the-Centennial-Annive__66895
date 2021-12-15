@@ -1,5 +1,8 @@
 _repo: Our-Show-A-Humorous-Account-of-the-International-Exposition-in-Honor-of-the-Centennial-Annive__66895
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66895-h/images/endcover.jpg
 creator:
   authors:
   - agent_name: Shortcut, Daisy
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54016'
     url: http://www.gutenberg.org/2009/agents/54016
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66895#Our-Show-A-Humorous-Account-of-the-International-Exposition-in-Honor-of-the-Centennial-Annive_
 gutenberg_issued: '2021-12-07'
 identifiers:
   gutenberg: '66895'
